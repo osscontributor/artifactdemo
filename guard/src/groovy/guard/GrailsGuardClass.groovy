@@ -1,0 +1,3 @@
+package guard
+
+interface GrailsGuardClass {}
